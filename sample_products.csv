@@ -1,0 +1,11 @@
+id,cost,category,name,brand,retail_price,department,sku,distribution_center_id
+1,199.99,Smartphones,iPhone 14 Pro,Apple,999.99,Electronics,IPH14PRO001,1
+2,15.99,T-Shirts,Cotton Crew Neck T-Shirt,Nike,24.99,Clothing,NIKE-TSHIRT-001,2
+3,89.99,Blenders,Vitamix Professional Blender,Vitamix,299.99,Home & Garden,VITAMIX-BLEND-001,3
+4,45.50,Jeans,Classic Blue Jeans,Levi's,79.99,Clothing,LEVIS-JEANS-001,2
+5,299.99,Laptops,MacBook Air M2,Apple,1299.99,Electronics,MACBOOK-AIR-002,1
+6,12.99,Coffee Mugs,Ceramic Coffee Mug,Starbucks,19.99,Home & Garden,STARBUCKS-MUG-001,3
+7,89.99,Headphones,Sony WH-1000XM4,Sony,349.99,Electronics,SONY-HEADPHONES-001,1
+8,25.99,Sneakers,Air Jordan 1 Retro,Nike,169.99,Clothing,NIKE-SNEAKERS-001,2
+9,199.99,Tablets,iPad Air,Apple,599.99,Electronics,IPAD-AIR-001,1
+10,35.99,Kitchen Knives,Professional Chef Knife Set,KitchenAid,129.99,Home & Garden,KITCHENAID-KNIVES-001,3 
